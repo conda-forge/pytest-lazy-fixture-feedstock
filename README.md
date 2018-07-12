@@ -14,12 +14,15 @@ Summary: It helps to use fixtures in pytest.mark.parametrize
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/pytest-lazy-fixture-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pytest-lazy-fixture-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pytest-lazy-fixture-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pytest-lazy-fixture-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pytest-lazy-fixture/badges/version.svg)](https://anaconda.org/conda-forge/pytest-lazy-fixture)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pytest-lazy-fixture/badges/downloads.svg)](https://anaconda.org/conda-forge/pytest-lazy-fixture)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pytest--lazy--fixture-green.svg)](https://anaconda.org/conda-forge/pytest-lazy-fixture) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pytest-lazy-fixture.svg)](https://anaconda.org/conda-forge/pytest-lazy-fixture) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pytest-lazy-fixture.svg)](https://anaconda.org/conda-forge/pytest-lazy-fixture) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pytest-lazy-fixture.svg)](https://anaconda.org/conda-forge/pytest-lazy-fixture) |
 
 Installing pytest-lazy-fixture
 ==============================
