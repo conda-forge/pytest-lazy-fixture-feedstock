@@ -23,7 +23,7 @@ requirements:
 
   run:
     - python
-    - pytest >=2.9.2
+    - pytest >=3.2.5
 
 test:
   imports:
