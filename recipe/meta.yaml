@@ -1,6 +1,6 @@
 {% set name = "pytest-lazy-fixture" %}
-{% set version = "0.6.2" %}
-{% set hash = "eb2f4573b371c690b91e637d09dfa30e2d6ba1234833df1920fc8b7b0d0fcebb" %}
+{% set version = "0.6.3" %}
+{% set hash = "0e7d0c7f74ba33e6e80905e9bfd81f9d15ef9a790de97993e34213deb5ad10ac" %}
 package:
   name: {{ name }}
   version: {{ version }}
